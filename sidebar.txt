@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kye:home|Door43 (kye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kye|d43-kye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kye/archive/master.zip|d43-kye.zip]]
+
+**Recent Changes**
+{{changes>ns = kye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kye|Ethnologue data]]
+
